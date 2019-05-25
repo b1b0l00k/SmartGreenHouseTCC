@@ -38,7 +38,6 @@ class _HomePageState extends State<HomePage> {
                       ]
                     )
                   ),
-                  child: Text('sd'),
                 ),
               ),
               Container(
